@@ -2,4 +2,4 @@ tsun2019@ITHS-MACBOOK-1 yue-repo % git add test.txt
 tsun2019@ITHS-MACBOOK-1 yue-repo % git status
 tsun2019@ITHS-MACBOOK-1 yue-repo % git commit -m "changed it the third time."
 
-changed it again.
+changed it again. add some data
